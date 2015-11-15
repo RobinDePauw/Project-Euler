@@ -4,7 +4,7 @@ def find_sum_below(x):
 	lists = list_multiples_below(3,x)+list_multiples_below(5,x)
 	lists.sort()
 	answer =  0
-	print(lists)
+	# print(lists)
 	mem=0
 	for i in lists:
 		if (i==mem):
