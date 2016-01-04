@@ -10,6 +10,7 @@
 1
 42
 """
+__author__ = 'ROBIN'
 n_lists = int(input())
 for i_list in range(1,n_lists+1):
     n_numbers = int(input())

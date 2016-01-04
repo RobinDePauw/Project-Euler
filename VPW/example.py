@@ -1,4 +1,3 @@
-__author__ = 'ROBIN'
 """
 INPUT:
 4
@@ -7,6 +6,8 @@ INPUT:
 3 winnen
 1 team
 """
+__author__ = 'ROBIN'
+
 
 letters = int(input())
 for _ in range(letters):
